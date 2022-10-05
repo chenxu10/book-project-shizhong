@@ -1,5 +1,5 @@
 --- 
-title: "时中——隐藏在人体、金融市场与软件系统波动中的不变量"
+title: "知识工作者的闲情偶寄——减少焦虑、增加信心的身心愉悦之道"
 author: "Xu Shen"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
